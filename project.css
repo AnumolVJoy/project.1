@@ -1,0 +1,524 @@
+/* @import url('https://fonts.googleapis.com/css2?family') */
+
+
+header{
+    width: 101%;
+    background-color: brown;
+    color: white;
+    text-align: center;
+
+}
+
+div{
+
+
+}
+.col-1{
+    background-image: url("./backgrnd1.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    top: 46px;
+}
+.col-2{
+    width: 100%;
+    height: 250px;
+    background-color:rgba(0, 0, 0, 0.504);
+    position: absolute;
+    top: 46px;
+    
+}
+.new img{
+    position: absolute;
+    width: 400px;
+    height: 545px;
+    left: 1100px;
+    top: 330px;
+
+
+}
+.new h2{
+    position: absolute;
+    color:white;
+    top: 873px;
+    left: 1260px;
+}
+.new a{
+    position: absolute;
+    color:white;
+    top: 924px;
+    left: 1265px;
+    font-size: large;
+}
+
+.col-3{
+    position: absolute;
+    left: 30%;
+    color: white;
+    top: 50px;
+    font-size: 50px;
+    
+}
+.col-4{
+    color: black;
+    position: absolute;
+    float: right;
+    right: 20px;
+    
+    
+}
+
+.col-4 ul li{
+    list-style: none;
+    margin: 8px;
+    display: inline-block;
+    line-height: 0px;
+    
+}
+.col-4 ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.col-4 ul li a:hover{
+    background: brown;
+    border-radius: 2px;
+}
+.col-5{
+    background-color: rgb(241, 208, 169);
+    width: 100%;
+    height: 1250px;
+    position: absolute;
+    top: 296px;
+}
+.col-6 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:330px;
+    left: 250px;
+}
+.col-6 h2{
+    position: absolute;
+    color:white;
+    top: 514px;
+    left: 259px;
+}
+.col-6 a{
+    position: absolute;
+    color:white;
+    top: 566px;
+    left: 301px;
+    font-size: large;
+}
+.col-7 a{
+    position: absolute;
+    color:white;
+    top: 566px;
+    left: 601px;
+    font-size: large;
+}
+.col-7 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:330px;
+    left: 550px;
+}
+.col-7 h2{
+    position: absolute;
+    color:white;
+    top: 514px;
+    left: 601px;
+}
+.col-8 a{
+    position: absolute;
+    color:white;
+    top: 566px;
+    left: 913px;
+    font-size: large;
+}
+.col-8 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:330px;
+    left: 852px;
+}
+.col-8 h2{
+    position: absolute;
+    color:white;
+    top: 514px;
+    left: 924px;
+}
+
+.col-9 a{
+    position: absolute;
+    color:white;
+    top: 923px;
+    left: 906px;
+    font-size: large;
+}
+.col-9 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:673px;
+    left: 852px;
+}
+.col-9 h2{
+    position: absolute;
+    color:white;
+    top: 869px;
+    left: 901px;
+}
+.col-10 a{
+    position: absolute;
+    color:white;
+    top: 923px;
+    left: 612px;
+    font-size: large;
+}
+.col-10 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:673px;
+    left: 550px;
+}
+.col-10 h2{
+    position: absolute;
+    color:white;
+    top: 869px;
+    left: 622px;
+}
+.col-11 a{
+    position: absolute;
+    color:white;
+    top: 923px;
+    left: 301px;
+    font-size: large;
+}
+.col-11 img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:673px;
+    left: 250px;
+}
+.col-11 h2{
+    position: absolute;
+    color:white;
+    top: 869px;
+    left: 311px;
+}
+.col-12 h1{
+    color: black;
+    font-size: 25px;
+    position: absolute;
+    top: 1009px;
+    left: 45%;
+    transform: scale(1.6);
+    animation-iteration-count: infinite;
+    animation: anim 1s ease-in 1s infinite;
+}
+.col-13{
+    width: 100%;
+    height: 55px;
+    position: absolute;
+    background-color: rgba(136, 84, 84, 0.553);
+    top: 1009px;
+    
+}
+.col-14{
+    position: absolute;
+    top: 230px;
+    left: 30px;
+}
+.col-15 h1{
+    position: absolute;
+    left: 55px;
+    top: 1100px;
+    animation: anim 1s ease-in 1s infinite;
+}
+.col-15 img{
+    position: absolute;
+    top: 1200px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+}
+.col-16 img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1200px;
+    left: 170px;
+}
+.col-17 img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1320px;
+    left: 170px;
+}
+.col-18 img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 1320px;
+    left: 50px;
+}
+.col-19 h1{
+    position: absolute;
+    left: 460px;
+    top: 1100px;
+    animation: anim 1s ease-in 1s infinite;
+}
+.col-19 img{
+    position: absolute;
+    top: 1200px;
+    left: 450px;
+    width: 100px;
+    height: 100px;
+}
+.col-20 img{
+    position: absolute;
+    top: 1200px;
+    left: 570px;
+    width: 100px;
+    height: 100px;
+}
+.col-21 img{
+    position: absolute;
+    top: 1320px;
+    left: 570px;
+    width: 100px;
+    height: 100px;
+}
+.col-22 img{
+    position: absolute;
+    top: 1320px;
+    left: 450px;
+    width: 100px;
+    height: 100px;
+}
+.col-23 img{
+    position: absolute;
+    top: 1320px;
+    left: 850px;
+    width: 100px;
+    height: 100px;
+    animation: anim 1s ease-in 1s infinite;
+
+}
+.col-23 h1{
+    position: absolute;
+    left: 860px;
+    top: 1100px;
+    animation: anim 1s ease-in 1s infinite;
+}
+.col-24 img{
+    position: absolute;
+    top: 1320px;
+    left: 970px;
+    width: 100px;
+    height: 100px;
+
+}
+.col-25 img{
+    position: absolute;
+    top: 1200px;
+    left: 970px;
+    width: 100px;
+    height: 100px;
+
+}
+.col-26 img{
+    position: absolute;
+    top: 1200px;
+    left: 850px;
+    width: 100px;
+    height: 100px;
+
+}
+.col-27 img{
+    position: absolute;
+    top: 1200px;
+    left: 1250px;
+    width: 100px;
+    height: 100px;
+
+}
+.col-27 h1{
+    position: absolute;
+    left: 1255px;
+    top: 1100px;
+    animation: anim 1s ease-in 1s infinite;
+
+    
+}
+@keyframes anim{
+    0%{
+        color: black;
+    }
+    50%{
+        color: red;
+    }
+    100%{
+        color: blue;
+    }
+}
+.col-28 img{
+    position: absolute;
+    top: 1200px;
+    left: 1370px;
+    width: 100px;
+    height: 100px;
+
+}
+.col-29 img{
+    position: absolute;
+    top: 1320px;
+    left: 1370px;
+    width: 100px;
+    height: 100px;
+
+}
+.col-30 img{
+    position: absolute;
+    top: 1320px;
+    left: 1250px;
+    width: 100px;
+    height: 100px;
+
+}
+button{
+    background-color: brown;
+    color: white;
+    position: absolute;
+    border-radius: 100px;
+    top: 1465px;
+    left: 705px;
+    width: 100px;
+    height: 50px;
+    
+}
+button:hover{
+    box-shadow: 10px;
+    background-color: white;
+    color: brown;
+
+}
+
+ .footer {
+    position: absolute;
+    top: 1546px;
+    width: 100%;
+
+}
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  */
+/* .container{
+    max-width: 1170px;
+    background-color: brown;
+    margin: auto;
+}  */
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer{
+    background-color:bisque;
+    padding: 70px 0;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-col h4{
+    font-size: 18px;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+} 
+.footer-col h4::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    background-color: violet;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+
+}
+.footer-col ul li:not(:last-child){
+    margin-bottom: 10px;
+}
+.footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: green;
+    text-decoration: none;
+    font-weight: 300;
+    color: blue;
+    display: block;
+    transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+    color: red;
+    padding-left: 8px;
+} 
+/* .footer-col social-links a i{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(136, 84, 84, 0.553);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: green;
+    transition: all 0.5s ease;
+} 
+.footer-col social-links a i:hover{
+    color: white;
+    background-color: brown;
+} 
+
+.footer-col social-links a i{
+    position: absolute;
+
+}  */
+@media(max-width:767px){
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+@media(max-width:574px){
+    .footer-col{
+        width: 100%;
+    }
+}  
+
+/* .logo i{
+    position: absolute;
+} */
+
